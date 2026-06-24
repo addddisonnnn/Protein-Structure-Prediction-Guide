@@ -9,6 +9,10 @@ Guide to predicting three-dimensional protein structures and taking into account
 - Boltz
 - Chai
 
+Model-specific for de novo design:
+- RFdiffusion
+- ProteinMPNN
+
 Resources:
 - https://elanapearl.github.io/blog/2024/the-illustrated-alphafold/
 - https://link.springer.com/book/10.1007/978-1-59745-574-9#toc
